@@ -167,14 +167,6 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abre un Pull Request
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👥 Autores
-
-- Tu Nombre - [@tu-usuario](https://github.com/tu-usuario)
-
 ## 🙏 Agradecimientos
 
 - Dataset: [Car Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) de Kaggle
@@ -182,12 +174,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - EasyOCR por el motor de OCR
 - Comunidad de OpenCV
 
-## 📧 Contacto
-
-Para preguntas o sugerencias:
-- Email: tu-email@ejemplo.com
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
----
-
-⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub
